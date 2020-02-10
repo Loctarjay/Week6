@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TestWorld</string>
+
+    <!-- about us section -->
+    <string name="About1">
+        <br>
+        We meet our clients through on-site inspection, measuring and data acquisition of e.g. bridges, oil platforms, wind turbines or buildings. The clients choose FORCE Technology for competent, quick and flexible assistance, which for some reduces risks and production stops and for others ensures consumer protection and compliance with current regulations.\n</br>
+        <br>
+        We meet our clients in our comprehensive and unique infrastructure of facilities and laboratories for testing, calibration and analysis. The clients choose us for impartial and accredited assistance, which for some provides validation and access to the market and for others, quality assurance and design optimisation.\n</br>
+        <br>
+        We meet our clients through delivery of products, components and sensor systems, which either in combination with FORCE Technology’s knowledge give them decision support, integrity management and extended lifetimes for structures, or give their own products new value-adding features and intelligence.\n</br>
+        <br>
+        We meet our clients in all areas with specialist counselling and training, which gives them value by combining multidisciplinary and experience-based skills with the latest knowledge from research and development activities. FORCE Technology creates peace of mind and value for our clients based on impartiality and knowledge.\n</br>
+        <br>
+        As an impartial and independent technological service company (GTS), we are maintaining and developing a technological infrastructure of unique facilities, technologies and competencies for the benefit of the whole of society and business.\n</br>
+    </string>
+    <string name="About2">
+        FORCE Technology creates peace of mind and value for our clients based on impartiality and knowledge.
+    </string>
+
+    <!-- OurServices section -->
+    <string name="ServicesText">
+        <br>3D print and additive manufacturing.\n</br>
+        <br>Acoustics, noise, and sound quality\n</br>
+        <br>Aerodynamics\n</br>
+        <br>Audit\n</br>
+        <br>Calibration\n</br>
+        <br>Corrosion protection\n</br>
+        <br>Electronic product compliance and testing\n</br>
+        <br>Emissions, bioenergy and resources\n</br>
+        <br>Hydrodynamics\n</br>
+        <br>Inspection\n</br>
+        <br>Integrity management\n</br>
+        <br>IoT and digital technology\n</br>
+        <br>Materials\n</br>
+        <br>Monitoring\n</br>
+        <br>Non-destructive testing NDT\n</br>
+        <br>Photonics and light\n</br>
+        <br>Simulations and CFD\n</br>
+        <br>Structural enginerring and analysis\n</br>
+        <br>Testing of products and structures\n</br>
+        <br>Welding technology\n</br>
+    </string>
+
+
+</resources>
